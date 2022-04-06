@@ -1,0 +1,12 @@
+.listButton {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.listItem {
+  text-align: start;
+}
+
+.listItem:not(:first-child) {
+  margin-top: 10px;
+}
